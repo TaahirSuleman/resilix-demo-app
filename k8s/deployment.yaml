@@ -1,0 +1,4 @@
+# Resilix automated remediation
+# Incident: INC-13a2a5cc
+# Action: scale_up
+# Summary: Service capacity limits were exceeded under incident load.
