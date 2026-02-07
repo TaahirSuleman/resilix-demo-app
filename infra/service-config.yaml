@@ -1,0 +1,4 @@
+# Resilix automated remediation
+# Incident: INC-97d22961
+# Action: config_change
+# Summary: Propagation configuration drift caused unstable health transitions.
